@@ -1,0 +1,4 @@
+Siparişler oluşturulduğunda, ürünlerin stok miktarları güncellenmelidir.
+sipariş yönetimi eksik
+arama ve filtreleme kısmında isme göre getirme olumsuz diğerleri eklenmedi
+en çok satan ürünler ve yeni eklenen ürünler gibi çeşitli kriterlere göre listeleme yapılmadı.
